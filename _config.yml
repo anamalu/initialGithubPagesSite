@@ -1,0 +1,30 @@
+title:            Apollo Namalu
+description:      "Developer: Sitecore, Javascript, C# "
+disqus_shortname: 
+url:              http://anamalu.github.io
+logo:             
+
+owner:
+  name:           Apollo Namalu
+  bio:            "..."
+  email:          
+  twitter:        
+  facebook:       
+  github:         
+  linkedin:       
+  instagram:      
+  google_plus:    
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Projects
+    url: /projects
+  - title: GitHub Profile
+    url: https://github.com/anamalu
+    external: true
+
+timezone:    America/New_York
+future:      true
+highlighter: pygments
+markdown:    kramdown
